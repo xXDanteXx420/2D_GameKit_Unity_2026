@@ -29066,6 +29066,56 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Path
+      value: event:/SFX/Player/PlayerFootstepsCave
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Path
+      value: event:/SFX/Player/PlayerFootstepsCave
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data1
+      value: 1999495900
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data2
+      value: 1090568390
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data3
+      value: 1877048484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerFootsteps.Guid.Data4
+      value: 1885668291
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data1
+      value: 1999495900
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data2
+      value: 1090568390
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data3
+      value: 1877048484
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackRanged.Guid.Data4
+      value: 1885668291
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
