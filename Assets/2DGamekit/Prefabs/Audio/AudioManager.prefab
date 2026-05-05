@@ -305,6 +305,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   combatTimerLength: 3
   eventEmitters:
+    ambiance: {fileID: 6072357453265872411}
     musicMenu: {fileID: 110158806593295546}
     music: {fileID: 5158617837186310920}
     music02: {fileID: 8933774022352548864}
