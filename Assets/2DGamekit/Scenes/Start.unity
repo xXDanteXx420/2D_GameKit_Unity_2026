@@ -29069,12 +29069,12 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerFootsteps.Path
-      value: event:/SFX/Player/PlayerFootstepsCave
+      value: event:/SFX/Player/player_footsteps
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackRanged.Path
-      value: event:/SFX/Player/PlayerWeaponRanged
+      value: event:/SFX/Player/player_weapon_ranged
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
