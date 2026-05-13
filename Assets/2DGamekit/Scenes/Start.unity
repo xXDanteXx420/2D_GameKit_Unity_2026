@@ -29068,8 +29068,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
+      propertyPath: acidSplash.Path
+      value: event:/SFX/Player/player_weapon_ranged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
       propertyPath: playerFootsteps.Path
       value: event:/SFX/Player/player_footsteps
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data1
+      value: 520953615
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data2
+      value: 1305224984
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data3
+      value: 1564610742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: acidSplash.Guid.Data4
+      value: 1912060985
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
