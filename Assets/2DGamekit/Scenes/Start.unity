@@ -29073,6 +29073,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
+      propertyPath: playerJump.Path
+      value: event:/SFX/Player/player_jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Path
+      value: event:/SFX/Player/player_land
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
       propertyPath: playerFootsteps.Path
       value: event:/SFX/Player/player_footsteps
       objectReference: {fileID: 0}
@@ -29098,8 +29108,53 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
+      propertyPath: playerJump.Guid.Data1
+      value: -1564916799
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data2
+      value: 1242392806
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data3
+      value: -801649784
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerJump.Guid.Data4
+      value: -227113146
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data1
+      value: 2066866440
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data2
+      value: 1218051330
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data3
+      value: 1619122075
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerLand.Guid.Data4
+      value: -46349488
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Path
+      value: event:/SFX/Player/player_attack_ranged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
       propertyPath: playerAttackRanged.Path
-      value: event:/SFX/Player/player_weapon_ranged
+      value: event:/SFX/Player/player_attack_ranged
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
@@ -29120,6 +29175,26 @@ PrefabInstance:
         type: 3}
       propertyPath: playerFootsteps.Guid.Data4
       value: 1885668291
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data1
+      value: 520953615
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data2
+      value: 1305224984
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data3
+      value: 1564610742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
+        type: 3}
+      propertyPath: playerAttackMelee.Guid.Data4
+      value: 1912060985
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}

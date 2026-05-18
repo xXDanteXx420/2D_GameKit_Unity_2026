@@ -314,39 +314,46 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1999495900
+      Data2: 1090568390
+      Data3: 1877048484
+      Data4: 1885668291
+    Path: event:/SFX/Player/player_footsteps
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1564916799
+      Data2: 1242392806
+      Data3: -801649784
+      Data4: -227113146
+    Path: event:/SFX/Player/player_jump
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2066866440
+      Data2: 1218051330
+      Data3: 1619122075
+      Data4: -46349488
+    Path: event:/SFX/Player/player_land
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 520953615
+      Data2: 1305224984
+      Data3: 1564610742
+      Data4: 1912060985
+    Path: event:/SFX/Player/player_attack_ranged
+  playerAttackRanged:
+    Guid:
+      Data1: 520953615
+      Data2: 1305224984
+      Data3: 1564610742
+      Data4: 1912060985
+    Path: event:/SFX/Player/player_attack_ranged
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -2144820660
+      Data2: 1095220616
+      Data3: 1270796429
+      Data4: 1875411865
+    Path: event:/SFX/Player/player_hurt
   wallDestroy:
     Guid:
       Data1: 0
@@ -391,11 +398,11 @@ MonoBehaviour:
     Path: 
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 584275270
+      Data2: 1253924452
+      Data3: 401977494
+      Data4: -796592581
+    Path: event:/SFX/Ambiance/amb_acidpool_loop
   boxPush:
     Guid:
       Data1: 0

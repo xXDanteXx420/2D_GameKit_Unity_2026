@@ -230,12 +230,12 @@ public class AudioManager : MonoBehaviour
 
     public void PlayRanged()
     {
-	if (playerAttackRanged.IsNull)
-	{
-		Debug.LogWarning("Fmod event not found: playerAttackRanged");
-		return;
-	}
-	RuntimeManager.PlayOneShot(playerAttackRanged);
+	    if (playerAttackRanged.IsNull)
+	    {
+		    Debug.LogWarning("Fmod event not found: playerAttackRanged");
+		    return;
+	    }
+	    RuntimeManager.PlayOneShot(playerAttackRanged);
     }	
 
     public void PlayHurt()
