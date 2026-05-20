@@ -335,11 +335,11 @@ MonoBehaviour:
     Path: event:/SFX/Player/player_land
   playerAttackMelee:
     Guid:
-      Data1: 520953615
-      Data2: 1305224984
-      Data3: 1564610742
-      Data4: 1912060985
-    Path: event:/SFX/Player/player_attack_ranged
+      Data1: -607400936
+      Data2: 1163754402
+      Data3: -201523277
+      Data4: 1015903092
+    Path: event:/SFX/Player/player_attack_melee
   playerAttackRanged:
     Guid:
       Data1: 520953615
