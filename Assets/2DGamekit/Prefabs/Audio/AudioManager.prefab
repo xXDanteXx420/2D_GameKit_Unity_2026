@@ -370,18 +370,18 @@ MonoBehaviour:
     Path: 
   doorSwitch:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2002588321
+      Data2: 1187632734
+      Data3: 1459622545
+      Data4: -2049616708
+    Path: event:/SFX/Interactables/door_switch
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 213426214
+      Data2: 1147891369
+      Data3: 1983644033
+      Data4: 1328076321
+    Path: event:/SFX/Interactables/door_open
   pickupKey:
     Guid:
       Data1: 0
@@ -402,28 +402,28 @@ MonoBehaviour:
       Data2: 1191409673
       Data3: -1952087384
       Data4: 305826809
-    Path: event:/SFX/Acidpool_splash
+    Path: event:/SFX/Interactables/acidpool_splash
   boxPush:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -62403844
+      Data2: 1108607677
+      Data3: -1922472020
+      Data4: -1260918520
+    Path: event:/SFX/Interactables/box_push
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1709100870
+      Data2: 1212329910
+      Data3: -1236109653
+      Data4: 20261553
+    Path: event:/SFX/Menu/Menu_Button_Press
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1709100870
+      Data2: 1212329910
+      Data3: -1236109653
+      Data4: 20261553
+    Path: event:/SFX/Menu/Menu_Button_Press
   enemyFootstep:
     Guid:
       Data1: 0
@@ -440,11 +440,11 @@ MonoBehaviour:
     Path: 
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -735919733
+      Data2: 1122009885
+      Data3: 80484792
+      Data4: -516713405
+    Path: event:/SFX/Enemy/Bite_Attack
   enemyDeath:
     Guid:
       Data1: 0
