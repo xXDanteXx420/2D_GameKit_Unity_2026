@@ -444,7 +444,7 @@ MonoBehaviour:
       Data2: 1122009885
       Data3: 80484792
       Data4: -516713405
-    Path: event:/SFX/Enemy/Bite_Attack
+    Path: event:/SFX/Enemy/enemy_attack_bite
   enemyDeath:
     Guid:
       Data1: 0
