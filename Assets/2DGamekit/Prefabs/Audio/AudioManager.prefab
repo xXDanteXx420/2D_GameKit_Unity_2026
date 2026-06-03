@@ -356,18 +356,18 @@ MonoBehaviour:
     Path: event:/SFX/Player/player_hurt
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 17185620
+      Data2: 1290359208
+      Data3: -1228078154
+      Data4: 1990487779
+    Path: event:/SFX/Interactables/destructable_wall
   pickupHealth:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1795572281
+      Data2: 1139194572
+      Data3: 1298714043
+      Data4: 2133510105
+    Path: event:/SFX/Interactables/pickup_health
   doorSwitch:
     Guid:
       Data1: 2002588321
@@ -384,18 +384,18 @@ MonoBehaviour:
     Path: event:/SFX/Interactables/door_open
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1264462172
+      Data2: 1273795229
+      Data3: 851075505
+      Data4: 1676617827
+    Path: event:/SFX/Interactables/pickup_key
   pressurePad:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 202664516
+      Data2: 1184707375
+      Data3: -2031294828
+      Data4: -2080492776
+    Path: event:/SFX/Interactables/pressure_pad
   acidSplash:
     Guid:
       Data1: -1847459176
@@ -433,11 +433,11 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -878340025
+      Data2: 1182438156
+      Data3: 1429844415
+      Data4: -1685924003
+    Path: event:/SFX/Enemy/enemy_attack_spit
   enemyMelee:
     Guid:
       Data1: -735919733
@@ -447,11 +447,11 @@ MonoBehaviour:
     Path: event:/SFX/Enemy/enemy_attack_bite
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 598184757
+      Data2: 1325242693
+      Data3: 526245040
+      Data4: -675423445
+    Path: event:/SFX/Enemy/enemy_die
   stingerGameOver:
     Guid:
       Data1: 715162006
